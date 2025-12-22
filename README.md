@@ -6,6 +6,8 @@ Support is already included for MSFS in the TelemFFB app.  Just add the Trim dev
 
 ![95271CD9-37AC-42F0-95C8-9CAE897E485E_1_105_c](https://github.com/user-attachments/assets/cb0342d7-5382-441a-9afc-c3c6002cfce4)
 
+<img width="1242" height="906" alt="image" src="https://github.com/user-attachments/assets/6593cd4a-7312-42be-95b7-5642a7c55655" />
+
 BOM:
 
 1 - VPForce 57BLF01 Kit 
@@ -43,6 +45,8 @@ BOM:
 
 
 Assembly Notes
+
+Refer to the STEP assy for parts to print. 
 
 Print trimwheel with spiral on build plate, no supports. 
 
