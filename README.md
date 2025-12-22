@@ -30,7 +30,7 @@ BOM:
 
 1 - 8mmOD 3mmID x 4mm bearing		
 
-1 - McMaster 6597K36	Rotary Speed Limiter	
+1 - McMaster 6597K35	Rotary Speed Limiter	0.66 in-oz torque
 
 15 - McMaster 91294A130	M3x10 Black-Oxide Alloy Steel Hex Drive Flat Head Screw
 
