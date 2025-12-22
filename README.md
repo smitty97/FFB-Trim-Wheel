@@ -50,6 +50,8 @@ Refer to the STEP assy for parts to print.
 
 Print trimwheel with spiral on build plate, no supports. 
 
+Print the trim indicator in white, and add a little dab of white paint to the indicator cover centering triangle
+
 The main alum plate can be ordered from SendCutSend.com.  Order without the countersinks, its easy to add them with a drill later
 
 Power up the 57BLF01 motor with calibration at 0-4096 and apply spring force to center.  Mark the shaft-housing alignment with a sharpie.
