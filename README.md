@@ -56,7 +56,9 @@ The main alum plate can be ordered from SendCutSend.com.  Order without the coun
 
 Power up the 57BLF01 motor with calibration at 0-4096 and apply spring force to center.  Mark the shaft-housing alignment with a sharpie.
 
-When assembiling the unit with the belt, keep the motor centered and the indicator tab centered in the spiral. 
+When assembiling the unit with the belt, keep the motor centered and the indicator tab centered in the spiral.  The spiral wheel also has a triangle that should point toward the motor for its center position.  See pic below:
+
+<img width="757" height="386" alt="image" src="https://github.com/user-attachments/assets/15c7127d-acc0-4d73-89ec-74b70cd33ab7" />
 
 Check full trim wheel rotation during recalibration, if you go under 0 or over 4096, move the belt to another tooth
 
